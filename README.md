@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=cassio7e&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F247978650%3Fv%3D4" alt="cassio7e hero visual" />
 </p>
 
-<p align="center"><b>cassio7e</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
+<p align="center"><b>cassio7e</b> · Student in Computer Science<br/><sub>Building in public on GitHub.</sub></p>
 
 <p align="center"><a href="https://github.com/cassio7e">GitHub</a></p>
 
